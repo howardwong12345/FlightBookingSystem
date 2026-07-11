@@ -1,6 +1,6 @@
 # ✈️ JSJK Airline Flight Booking System
 
-A console-based airline booking system developed in **C++** as a university group project.
+A console-based airline booking system developed in **C++** as a university group project
 
 ## Features
 - User registration and login
@@ -17,5 +17,3 @@ A console-based airline booking system developed in **C++** as a university grou
 - Structures
 - Input Validation
 
-## BY
-**Wong Hoe Mun**
